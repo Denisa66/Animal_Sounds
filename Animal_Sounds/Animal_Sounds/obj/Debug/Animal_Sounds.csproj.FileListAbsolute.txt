@@ -1,0 +1,7 @@
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\bin\Debug\Animal_Sounds.exe.config
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\bin\Debug\Animal_Sounds.exe
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\bin\Debug\Animal_Sounds.pdb
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\obj\Debug\Animal_Sounds.csproj.AssemblyReference.cache
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\obj\Debug\Animal_Sounds.csproj.CoreCompileInputs.cache
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\obj\Debug\Animal_Sounds.exe
+C:\Master\Proiect - Medii si platforme\Animal_Sounds\Animal_Sounds\obj\Debug\Animal_Sounds.pdb
